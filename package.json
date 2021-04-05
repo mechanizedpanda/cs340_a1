@@ -9,6 +9,8 @@
   "author": "George Kochera",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "forever": "^3.0.4",
+    "mysql": "^2.18.1"
   }
 }
